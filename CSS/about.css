@@ -1,0 +1,175 @@
+.hexa{
+    color: black;
+    text-decoration: none;
+
+}
+.hexa:hover{
+    color: black;
+    text-decoration: none;
+}
+.explore{
+    color: black;
+    text-decoration: none;
+}
+.explore:hover{
+    color: black;
+    text-decoration: none;
+}
+hr{
+    border: dotted;
+    border-color: gray;
+}
+.image-text{
+    position: absolute ;
+    top: 50% !important;
+    left: 50% !important; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+    z-index: 1; 
+}
+.fa-twitter{
+    background-color: #31363c;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 30px;
+}
+.fa-twitter:hover{
+    background-color: rgba(205, 205, 205, 0.776);
+    color: #31363c;
+    border-radius: 50%;
+    width: 40px;
+    height: 30px;
+}
+.first-image-about{
+    position: relative;
+}
+.first-image-about .btn-hover-1{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.first-image-about:hover .btn-hover-1{
+    display: block;
+}
+
+.first-image-about{
+    position: relative;
+}
+.first-image-about .btn-hover-2{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.first-image-about:hover .btn-hover-2{
+    display: block;
+}
+.first-image-about{
+    position: relative;
+}
+.first-image-about .btn-hover-3{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.first-image-about:hover .btn-hover-3{
+    display: block;
+}
+.second-image-about{
+    position: relative;
+}
+.second-image-about .btn-hover-2-1{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.second-image-about:hover .btn-hover-2-1{
+    display: block;
+}
+.second-image-about{
+    position: relative;
+}
+.second-image-about .btn-hover-2-2{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.second-image-about:hover .btn-hover-2-2{
+    display: block;
+}
+.second-image-about{
+    position: relative;
+}
+.second-image-about .btn-hover-2-3{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.second-image-about:hover .btn-hover-2-3{
+    display: block;
+}
+.third-image-about{
+    position: relative;
+}
+.third-image-about .btn-hover-3-1{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.third-image-about:hover .btn-hover-3-1{
+    display: block;
+}
+.third-image-about{
+    position: relative;
+}
+.third-image-about .btn-hover-3-2{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.third-image-about:hover .btn-hover-3-2{
+    display: block;
+}
+.third-image-about{
+    position: relative;
+}
+.third-image-about .btn-hover-3-3{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    display: none;
+    margin-right: 3px !important;
+}
+.third-image-about:hover .btn-hover-3-3{
+    display: block;
+}
+
+

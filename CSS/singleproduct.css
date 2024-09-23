@@ -1,0 +1,50 @@
+.hexa{
+    color: black;
+    text-decoration: none;
+
+}
+.hexa:hover{
+    color: black;
+    text-decoration: none;
+}
+.explore{
+    color: black;
+    text-decoration: none;
+}
+.explore:hover{
+    color: black;
+    text-decoration: none;
+}
+hr{
+    border: dotted;
+    border-color: gray;
+}
+.image-text{
+    position: absolute ;
+    top: 50% !important;
+    left: 50% !important; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 24px; 
+    font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+    z-index: 1; 
+}
+.content{
+    display: none;
+}
+.card{
+    font-weight: 500;
+}
+.card:hover{
+    background-color: black;
+    color: white !important;
+}
+.productsMargin{
+    margin-bottom: 5rem  !important;
+}
+@media only screen and (max-width: 576px){
+    .card{
+        margin-bottom: 3rem;
+    }
+}
